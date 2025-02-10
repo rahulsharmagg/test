@@ -1,8 +1,5 @@
-const 	X = 1700,
-	  	Y = 300;
-
-function sum(){
-	return X + Y;
+function sum(x, y){
+	return x + y;
 }
 
-sum();
+sum(400, 600);
