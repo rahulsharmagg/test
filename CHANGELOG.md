@@ -1,3 +1,10 @@
+## 0.3.0 (February 10, 2025)
+  - Merge tag 'v0.2.4' into develop
+  - Merge tag 'v0.2.3' into develop
+  - Merge tag 'v0.2.2' into develop
+  - Merge tag 'v0.2.1' into develop
+  - Merge tag 'v0.2.0' into develop
+
 ## 0.2.4 (February 10, 2025)
   - fix merge issue
 
