@@ -1,3 +1,8 @@
+## 0.3.1 (February 10, 2025)
+  - Merge branch 'feature/n1f' into develop
+  - Merge tag 'v0.3.0' into develop
+  - Added new feature
+
 ## 0.3.0 (February 10, 2025)
   - Merge tag 'v0.2.4' into develop
   - Merge tag 'v0.2.3' into develop
