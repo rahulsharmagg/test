@@ -1,3 +1,6 @@
+## 0.2.1 (February 10, 2025)
+  - New value set to main.js admin
+
 ## 0.2.0 (February 10, 2025)
   - added git attribute file
   - Merge tag 'v0.1.0' into develop
