@@ -1,3 +1,6 @@
+## 0.2.3 (February 10, 2025)
+  - This is an update to main.js
+
 ## 0.2.2 (February 10, 2025)
   - Set gitattributes to merge local with ours value
 
