@@ -4,3 +4,5 @@ const 	X = 500,
 function sum(){
 	return X + Y;
 }
+
+sum();
