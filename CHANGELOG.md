@@ -1,3 +1,6 @@
+## 0.2.2 (February 10, 2025)
+  - Set gitattributes to merge local with ours value
+
 ## 0.2.1 (February 10, 2025)
   - New value set to main.js admin
 
