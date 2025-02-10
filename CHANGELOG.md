@@ -1,3 +1,6 @@
+## 0.2.4 (February 10, 2025)
+  - fix merge issue
+
 ## 0.2.3 (February 10, 2025)
   - This is an update to main.js
 
