@@ -1,4 +1,4 @@
-const 	X = 500,
+const 	X = 900,
 	  	Y = 700;
 
 function sum(){
